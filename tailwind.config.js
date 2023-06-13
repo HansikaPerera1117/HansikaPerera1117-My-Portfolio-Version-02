@@ -12,8 +12,9 @@ module.exports = {
     extend: {
       fontFamily:{
         ubuntu:["Ubuntu","sans-serif"],
-        lobster:["Lobster","cursive"],
-        raleway:["Raleway","sans-serif"]
+        raleway:["Raleway","sans-serif"],
+        geologica:["Geologica","sans-serif"],
+        ysabeau:["Ysabeau","sans-serif"]
       }
     },
   },
