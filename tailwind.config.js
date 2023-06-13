@@ -9,7 +9,13 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        ubuntu:["Ubuntu","sans-serif"],
+        lobster:["Lobster","cursive"],
+        raleway:["Raleway","sans-serif"]
+      }
+    },
   },
   plugins: [],
 }
