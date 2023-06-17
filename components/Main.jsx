@@ -11,8 +11,8 @@ const Main = ()=>{
       <Image
           src={PImg1}
           alt="img"
-          width='500'
-          height='500'
+          width='400'
+          height='400'
           className="mx-24 inline-block relative bottom-28"
         />
         <div className='relative left-16 inline-block my-14 mx-14'>
@@ -27,9 +27,8 @@ const Main = ()=>{
             <div className='bg-blue-400 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><SiHackerrank/></div>
             <div className='bg-cyan-500 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><BsFileEarmarkArrowDownFill/></div>       
             <div className='bg-teal-400 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><BsFileEarmarkArrowDownFill/></div>       
-
           </div>
-
+          
         </div>
       </section>
     </div>

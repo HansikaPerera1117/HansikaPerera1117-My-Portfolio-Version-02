@@ -3,14 +3,9 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 
-
 import NavBar from '@/components/NavBar'
 import  Main  from '@/components/Main'
-
-
-
-
-
+import  Footer  from '@/components/Footer'
 
 
 
@@ -25,21 +20,23 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel='icon' href='logo.png' />
 
-
         <style>
           @import url('https://fonts.googleapis.com/css2?family=Geologica&family=Raleway:wght@600&family=Ubuntu&family=Ysabeau:wght@300&display=swap');
         </style>
         
-
       </Head>
       
       <header>
          <NavBar/>
       </header>
-      <main>
-       <Main/>
 
+      <main>
+         <Main/>
       </main>
+
+      <footer>
+        <Footer/>
+      </footer>
     </>
   )
 }
