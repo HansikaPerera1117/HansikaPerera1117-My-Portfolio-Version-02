@@ -22,11 +22,11 @@ const Main = ()=>{
           <h1 className='font-ysabeau font-medium text-xl'>I'm focused on elevating user experiences with intuitive interfaces and flawless <br/>frontend execution.</h1>
        
           <div className='mx-8 my-12 '>
-            <div className='bg-sky-400 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><FaLinkedinIn/></div>
-            <div className='bg-indigo-400 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><FaGithub/></div>
+            <div className='bg-blue-400 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><FaLinkedinIn/></div>
+            <div className='bg-blue-400 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><FaGithub/></div>
             <div className='bg-blue-400 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><SiHackerrank/></div>
-            <div className='bg-cyan-500 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><BsFileEarmarkArrowDownFill/></div>       
-            <div className='bg-teal-400 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><BsFileEarmarkArrowDownFill/></div>       
+            <div className='bg-blue-400 inline-block text-2xl mx-4 rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'><BsFileEarmarkArrowDownFill/></div>       
+           
           </div>
           
         </div>

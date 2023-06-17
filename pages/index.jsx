@@ -6,6 +6,7 @@ import styles from '@/styles/Home.module.css'
 import NavBar from '@/components/NavBar'
 import  Main  from '@/components/Main'
 import  Footer  from '@/components/Footer'
+import AboutMe from '@/components/AboutMe'
 
 
 
@@ -32,6 +33,7 @@ export default function Home() {
 
       <main>
          <Main/>
+         <AboutMe/>
       </main>
 
       <footer>
